@@ -1,12 +1,12 @@
 # JavaScript
 Lessons, practice and challenges
 
-##Resources
+## Resources
 [freeCodeCamp](https://learn.freecodecamp.org/)
 
-##Subjects
+## Subjects
 
-###Working with Arrays
+### Working with Arrays
 
 -Methods
     -push()
