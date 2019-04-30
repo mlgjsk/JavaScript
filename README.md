@@ -9,22 +9,22 @@ Lessons, practice and challenges
 ### Working with Arrays
 
 -Methods
-    -push()
-    -unshift()
-    -shift()
-    -pop()
-    -splice()
-    -slice()
-    -indexOf()
+    - push()
+    - unshift()
+    - shift()
+    - pop()
+    - splice()
+    - slice()
+    - indexOf()
 
--Copying and combining Arrays using Spread Operator   
+- Copying and combining Arrays using Spread Operator   
 
--Objects
-    -add a key-value pair to js object
-    -modify Object nested within an Object
-    -access property names
-    -using delete keyword
-    -hasOwnProperty()
-    -generate an array of all object keys with Object.keys()
-    -modify an array stored in the object
+- Objects
+    - add a key-value pair to js object
+    - modify Object nested within an Object
+    - access property names
+    - using delete keyword
+    - hasOwnProperty()
+    - generate an array of all object keys with Object.keys()
+    - modify an array stored in the object
 
