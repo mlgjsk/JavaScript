@@ -8,7 +8,7 @@ Lessons, practice and challenges
 
 ### Working with Arrays
 
--Methods
+- Methods
     - push()
     - unshift()
     - shift()
